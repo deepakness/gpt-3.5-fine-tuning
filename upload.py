@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "YOUR_OPENAI_API_KEY"
 
 def fine_tune_model(file_path):
     # Upload the file
